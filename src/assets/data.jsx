@@ -15,7 +15,7 @@ export const data = [
       "Central Style Sheets",
       "Cascading Style Sheets",
       "Cascading Simple Sheet",
-      "Cars SUVs Sailboats",
+      "Cars SUVs Sail",
     ],
     answer: "Cascading Style Sheets",
   },
